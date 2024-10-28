@@ -28,7 +28,7 @@ Beware of the **Piranha Plant** 🌱—if you hit it, the game ends! Test your r
 3. Whack the moles 🐹 to score points—but watch out for the Piranha Plant 🌱! Hitting it will end the game immediately. Good luck! 🍀
 
 ## 📷 Screenshot
-<img src="./screenshot.png" alt="Screenshot 1" style="width: 150px; height: 100px;"/>
+<img src="./Screenshot.png" alt="Screenshot 1" style="width: 150px; height: 100px;"/>
 
 ## 🛠️ Technologies Used
 
